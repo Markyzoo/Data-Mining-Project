@@ -1,6 +1,4 @@
-# Data-Mining-Project
+# Data-Mining
 UVic 2019 Fall Seng 474
 
-Final Project 
-
-Wine quality predictor using both linear regression and regression tree 
+This repository includes all three assignments and the final project
